@@ -12,7 +12,7 @@ export const metadata: Metadata = { title: "WinApps Analytics", description: "Re
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${font.variable} ${sansFont.variable}`}>
+    <html lang="en" className={`dark ${font.variable} ${sansFont.variable}`}>
       <body className="bg-background text-foreground font-sans">
         <QueryClientProvider client={queryClient}>
           {children}
