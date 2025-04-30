@@ -1,13 +1,5 @@
 # WinApps-Analytics-Dashboard
 
-![ConvertGIF1](https://github.com/user-attachments/assets/3c0895f3-a433-42dd-a080-ba6565e4c645)
-
-
-<video controls src="https://github.com/user-attachments/assets/0d476b8a-a3c8-49c8-8ee0-cbb1bb70fe4c">
-  Your browser does not support this video tag
-</video>
-
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
