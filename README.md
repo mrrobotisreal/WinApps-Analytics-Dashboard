@@ -1,5 +1,7 @@
 # WinApps-Analytics-Dashboard
 
+<img width="1228" alt="Dashboard Page" src="https://github.com/user-attachments/assets/a8f85a8a-4e6a-49be-8cee-e50df8f794d8" />
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
